@@ -1,0 +1,4 @@
+|1|921234|941234|voiceMessage()|2|10|done()|
+|2|931234|941234|voiceMessage()|3|20|done()|
+|3|931234|941234|voiceMessage()|1|20|done()|
+|4|931234|941234|textMessage()|0|10|done()|

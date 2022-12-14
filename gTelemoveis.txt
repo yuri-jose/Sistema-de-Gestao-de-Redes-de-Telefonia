@@ -1,0 +1,4 @@
+Telemovel|931234|qw|mobileOn()|10| |
+Telemovel|921234|qw|mobileOff()|10| |
+Telemovel|941234|rt|mobileOn()|0|931234,921234|
+Telemovel|931238|bn|mobileOn()|0|921234|

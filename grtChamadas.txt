@@ -1,0 +1,2 @@
+CHAMADA|1|921234|941234|voiceMessage()|2|10|done()|
+CHAMADA|2|931234|941234|voiceMessage()|3|20|done()|
